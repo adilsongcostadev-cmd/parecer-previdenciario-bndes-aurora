@@ -80,3 +80,16 @@ Responder, de forma rastreável, às 10 perguntas orientadoras do case.
 9. CRITÉRIOS DE AVALIAÇÃO (do professor — observar)
 Uso dos dados (25%) | Análise crítica (25%) | Uso da IA (20%) | Parecer final
 (20%) | Apresentação (10%).
+
+10. CHECKLIST OBRIGATÓRIO (verificar antes de finalizar o relatório)
+Antes de entregar, confirmar que o documento contém TODOS os itens abaixo:
+[ ] 3 gráficos embutidos (recolhimentos, absenteísmo e score).
+[ ] Matriz de achados (Domínio | Evidência | Risco | Impacto | Recomendação).
+[ ] Resposta EXPLÍCITA e rastreável às 10 perguntas orientadoras (em tabela ou
+    seção própria — não apenas diluídas no texto).
+[ ] Recomendação final destacada (APROVAR / APROVAR COM CONDICIONANTES / NÃO APROVAR).
+[ ] Lista de condicionantes, se aplicável.
+[ ] Fecho ESG: 1 a 2 linhas conectando os achados às dimensões Social e de
+    Governança, na conclusão.
+[ ] Capa com nome do autor (sem número de página) e formatação Times New Roman 12,
+    espaçamento 1,5, justificado.
