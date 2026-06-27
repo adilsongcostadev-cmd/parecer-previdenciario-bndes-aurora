@@ -3,13 +3,17 @@
 Esta pasta reúne os três produtos gerados a partir das instruções do projeto e o
 registro do teste de reprodutibilidade que validou o prompt.
 
+> **Leitura recomendada:** `Parecer_BNDES_Aurora_consolidado.docx` — é a versão final.
+> As outras duas (`projeto` e `referencia`) são mantidas como evidência do teste de
+> reprodutibilidade descrito abaixo.
+
 ## Arquivos
 
 | Arquivo | Origem | Descrição |
 |---|---|---|
 | `Parecer_BNDES_Aurora_projeto.docx` | Projeto novo (prompt isolado) | Parecer gerado executando as instruções do projeto em ambiente limpo. |
 | `Parecer_BNDES_Aurora_referencia.docx` | Parecer de referência | Versão independente, usada como base de comparação. |
-| `Parecer_BNDES_Aurora_consolidado.docx` | Melhor dos dois | Versão final: capa com autoria e união dos pontos fortes das duas saídas. |
+| `Parecer_BNDES_Aurora_consolidado.docx` | Melhor dos dois | **Versão recomendada para leitura** — final, com capa autoral e união dos pontos fortes das duas saídas. |
 
 ## Teste de reprodutibilidade
 
